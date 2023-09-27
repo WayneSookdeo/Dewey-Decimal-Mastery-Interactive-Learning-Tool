@@ -1,0 +1,21 @@
+﻿<Window x:Class="LibraryShelves.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LibraryShelves"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel>
+            <Label Content="Choose a task:"/>
+            <RadioButton Name="replaceBooksRadioButton" Content="Replacing books" IsChecked="True"/>
+            <RadioButton Name="identifyAreasRadioButton" Content="Identifying areas" IsEnabled="False"/>
+            <RadioButton Name="findCallNumbersRadioButton" Content="Finding call numbers" IsEnabled="False"/>
+            <Button Name="generateCallNumbersButton" Content="Generate call numbers" Click="generateCallNumbersButton_Click"/>
+            <ListBox Name="callNumbersListBox" ItemsSource="{Binding CallNumbers}" SelectionMode="Multiple" SelectionChanged="callNumbersListBox_SelectionChanged"/>
+            <Button Name="checkOrderButton" Content="Check order" Click="checkOrderButton_Click" IsEnabled="False"/>
+            <Label Name="resultLabel" Content=""/>
+        </StackPanel>
+    </Grid>
+</Window>
