@@ -106,5 +106,11 @@ namespace LibraryShelves
         {
             PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
         }
+
+        private void identifyAreasRadioButton_Checked(object sender, RoutedEventArgs e)
+        {
+            IdentifyingAreas IA = new IdentifyingAreas();
+            IA.Show();
+        }
     }
 }
