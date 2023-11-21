@@ -11,7 +11,7 @@
             <Label Content="Choose a task:"/>
             <RadioButton Name="replaceBooksRadioButton" Content="Replacing books" IsChecked="True"/>
             <RadioButton Name="identifyAreasRadioButton" Content="Identifying areas" IsEnabled="True" Checked="identifyAreasRadioButton_Checked"/>
-            <RadioButton Name="findCallNumbersRadioButton" Content="Finding call numbers" IsEnabled="False"/>
+            <RadioButton Name="findCallNumbersRadioButton" Content="Finding call numbers" IsEnabled="True" Checked="findCallNumbersRadioButton_Checked"/>
             <Button Name="generateCallNumbersButton" Content="Generate call numbers" Click="generateCallNumbersButton_Click"/>
             <ListBox Name="callNumbersListBox" ItemsSource="{Binding CallNumbers}" SelectionMode="Multiple" SelectionChanged="callNumbersListBox_SelectionChanged"/>
             <Button Name="checkOrderButton" Content="Check order" Click="checkOrderButton_Click" IsEnabled="False"/>

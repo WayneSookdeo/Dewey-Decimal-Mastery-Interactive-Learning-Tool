@@ -1,0 +1,658 @@
+[
+  {
+    "CallNumber": "000",
+    "Description": "GENERAL KNOWLEDGE",
+    "Subcategories": [
+      {
+        "CallNumber": "010",
+        "Description": "Bibliography",
+        "Subcategories": [
+          {
+            "CallNumber": "011",
+            "Description": "Bibliographies"
+          }
+        ]
+      },
+      {
+        "CallNumber": "020",
+        "Description": "Library and information sciences"
+      },
+      {
+        "CallNumber": "028",
+        "Description": "Reading, use of other information media"
+      },
+      {
+        "CallNumber": "050",
+        "Description": "General serial publications"
+      },
+      {
+        "CallNumber": "053",
+        "Description": "Serials in other Germanic languages"
+      },
+      {
+        "CallNumber": "060",
+        "Description": "General organization & museology"
+      },
+      {
+        "CallNumber": "063",
+        "Description": "Organizations in central Europe; in Germany"
+      },
+      {
+        "CallNumber": "090",
+        "Description": "Manuscripts and rare books"
+      },
+      {
+        "CallNumber": "091",
+        "Description": "Manuscripts"
+      },
+      {
+        "CallNumber": "092",
+        "Description": "Block books"
+      },
+      {
+        "CallNumber": "099",
+        "Description": "Books notable for format"
+      }
+    ]
+  },
+  {
+    "CallNumber": "100",
+    "Description": "PHILOSOPHY AND PSYCHOLOGY",
+    "Subcategories": [
+      {
+        "CallNumber": "110",
+        "Description": "Metaphysics"
+      },
+      {
+        "CallNumber": "111",
+        "Description": "Ontology"
+      },
+      {
+        "CallNumber": "120",
+        "Description": "Epistemology, causation, and humankind"
+      },
+      {
+        "CallNumber": "121",
+        "Description": "Epistemology (Theory of knowledge)"
+      },
+      {
+        "CallNumber": "127",
+        "Description": "The unconscious & the subconscious"
+      },
+      {
+        "CallNumber": "128",
+        "Description": "Humankind"
+      },
+      {
+        "CallNumber": "130",
+        "Description": "Parapsychology and occultism"
+      },
+      {
+        "CallNumber": "131",
+        "Description": "Parapsychological and occult methods for achieving well-being, happiness, success"
+      },
+      {
+        "CallNumber": "152",
+        "Description": "Perception, movement, emotions, drives"
+      },
+      {
+        "CallNumber": "160",
+        "Description": "Logic"
+      },
+      {
+        "CallNumber": "161",
+        "Description": "Induction"
+      },
+      {
+        "CallNumber": "170",
+        "Description": "Ethics (Moral philosophy)"
+      },
+      {
+        "CallNumber": "174",
+        "Description": "Economic & professional ethics"
+      },
+      {
+        "CallNumber": "176",
+        "Description": "Ethics of sex & reproduction"
+      },
+      {
+        "CallNumber": "179",
+        "Description": "Other ethical norms"
+      },
+      {
+        "CallNumber": "180",
+        "Description": "Ancient, medieval, eastern philosophy"
+      },
+      {
+        "CallNumber": "184",
+        "Description": "Platonic philosophies"
+      }
+    ]
+  },
+  {
+    "CallNumber": "200",
+    "Description": "RELIGION",
+    "Subcategories": [
+      {
+        "CallNumber": "210",
+        "Description": "Natural theology"
+      },
+      {
+        "CallNumber": "211",
+        "Description": "Concepts of God"
+      },
+      {
+        "CallNumber": "214",
+        "Description": "Theodicy"
+      },
+      {
+        "CallNumber": "220",
+        "Description": "Bible"
+      },
+      {
+        "CallNumber": "221",
+        "Description": "Old Testament"
+      },
+      {
+        "CallNumber": "230",
+        "Description": "Christianity"
+      },
+      {
+        "CallNumber": "235",
+        "Description": "Spiritual beings"
+      },
+      {
+        "CallNumber": "240",
+        "Description": "Christian moral and devotional theology"
+      },
+      {
+        "CallNumber": "241",
+        "Description": "Moral theology"
+      },
+      {
+        "CallNumber": "245",
+        "Description": "Texts of hymns"
+      },
+      {
+        "CallNumber": "250",
+        "Description": "Local Christian church and Christian religious orders"
+      },
+      {
+        "CallNumber": "252",
+        "Description": "Texts of sermons"
+      },
+      {
+        "CallNumber": "255",
+        "Description": "Religious congregations & orders"
+      },
+      {
+        "CallNumber": "260",
+        "Description": "Christian social and ecclesiastical theology"
+      },
+      {
+        "CallNumber": "263",
+        "Description": "Times, places of religious observance"
+      },
+      {
+        "CallNumber": "264",
+        "Description": "Public worship"
+      },
+      {
+        "CallNumber": "267",
+        "Description": "Associations for religious work"
+      },
+      {
+        "CallNumber": "290",
+        "Description": "Other religions"
+      },
+      {
+        "CallNumber": "299",
+        "Description": "Religions not provided for elsewhere"
+      }
+    ]
+  },
+  {
+    "CallNumber": "300",
+    "Description": "SOCIAL SCIENCE",
+    "Subcategories": [
+      {
+        "CallNumber": "320",
+        "Description": "Political science (Politics and government)"
+      },
+      {
+        "CallNumber": "321",
+        "Description": "Systems of governments & states"
+      },
+      {
+        "CallNumber": "327",
+        "Description": "International relations"
+      },
+      {
+        "CallNumber": "330",
+        "Description": "Economics"
+      },
+      {
+        "CallNumber": "332",
+        "Description": "Financial economics"
+      },
+      {
+        "CallNumber": "335",
+        "Description": "Socialism & related systems"
+      },
+      {
+        "CallNumber": "340",
+        "Description": "Law"
+      },
+      {
+        "CallNumber": "341",
+        "Description": "International law"
+      },
+      {
+        "CallNumber": "344",
+        "Description": "Social, labour, welfare, & related law"
+      },
+      {
+        "CallNumber": "360",
+        "Description": "Social services; association"
+      },
+      {
+        "CallNumber": "362",
+        "Description": "Social welfare problems & services"
+      },
+      {
+        "CallNumber": "370",
+        "Description": "Education"
+      },
+      {
+        "CallNumber": "375",
+        "Description": "Curricula"
+      },
+      {
+        "CallNumber": "390",
+        "Description": "Customs, etiquette, folklore"
+      },
+      {
+        "CallNumber": "394",
+        "Description": "General customs"
+      }
+    ]
+  },
+  {
+    "CallNumber": "400",
+    "Description": "LANGUAGE",
+    "Subcategories": [
+      {
+        "CallNumber": "410",
+        "Description": "Linguistics"
+      },
+      {
+        "CallNumber": "419",
+        "Description": "Verbal language not spoken or written"
+      },
+      {
+        "CallNumber": "420",
+        "Description": "English and Old English (Anglo-Saxon)"
+      },
+      {
+        "CallNumber": "425",
+        "Description": "English grammar"
+      },
+      {
+        "CallNumber": "427",
+        "Description": "English language variations"
+      },
+      {
+        "CallNumber": "460",
+        "Description": "Spanish, Portuguese, Galician"
+      },
+      {
+        "CallNumber": "466",
+        "Description": "Not assigned or no longer used"
+      },
+      {
+        "CallNumber": "470",
+        "Description": "Latin and related Italic languages"
+      },
+      {
+        "CallNumber": "472",
+        "Description": "Etymology of classical Latin"
+      },
+      {
+        "CallNumber": "480",
+        "Description": "Classical Greek and related Hellenic languages"
+      },
+      {
+        "CallNumber": "485",
+        "Description": "Classical Greek grammar"
+      },
+      {
+        "CallNumber": "490",
+        "Description": "Other languages"
+      },
+      {
+        "CallNumber": "495",
+        "Description": "Languages of East & Southeast Asia"
+      },
+      {
+        "CallNumber": "499",
+        "Description": "Miscellaneous languages"
+      }
+    ]
+  },
+  {
+    "CallNumber": "500",
+    "Description": "SCIENCE",
+    "Subcategories": [
+      {
+        "CallNumber": "510",
+        "Description": "Mathematics"
+      },
+      {
+        "CallNumber": "512",
+        "Description": "Algebra & number theory"
+      },
+      {
+        "CallNumber": "520",
+        "Description": "Astronomy and allied sciences"
+      },
+      {
+        "CallNumber": "526",
+        "Description": "Mathematical geographies"
+      },
+      {
+        "CallNumber": "530",
+        "Description": "Physics"
+      },
+      {
+        "CallNumber": "534",
+        "Description": "Sound & related vibrations"
+      },
+      {
+        "CallNumber": "540",
+        "Description": "Chemistry & allied sciences"
+      },
+      {
+        "CallNumber": "547",
+        "Description": "Organic chemistry"
+      },
+      {
+        "CallNumber": "550",
+        "Description": "Earth sciences"
+      },
+      {
+        "CallNumber": "554",
+        "Description": "Earth sciences of Europe"
+      },
+      {
+        "CallNumber": "570",
+        "Description": "Life sciences"
+      },
+      {
+        "CallNumber": "572",
+        "Description": "Biochemistry"
+      },
+      {
+        "CallNumber": "590",
+        "Description": "Animals"
+      },
+      {
+        "CallNumber": "598",
+        "Description": "Aves (Birds)"
+      },
+      {
+        "CallNumber": "599",
+        "Description": "Mammalia (Mammals)"
+      }
+    ]
+  },
+  {
+   
+      "CallNumber": "600",
+      "Description": "TECHNOLOGY",
+      "Subcategories": [
+        {
+          "CallNumber": "610",
+          "Description": "Medical sciences Medicine"
+        },
+        {
+          "CallNumber": "615",
+          "Description": "Pharmacology & therapeutics"
+        },
+        {
+          "CallNumber": "620",
+          "Description": "Engineering & allied operations"
+        },
+        {
+          "CallNumber": "622",
+          "Description": "Mining & related operations"
+        },
+        {
+          "CallNumber": "629",
+          "Description": "Other branches of engineering"
+        },
+        {
+          "CallNumber": "630",
+          "Description": "Agriculture and related technologies"
+        },
+        {
+          "CallNumber": "631",
+          "Description": "Techniques, equipment, materials"
+        },
+        {
+          "CallNumber": "638",
+          "Description": "Insect culture"
+        },
+        {
+          "CallNumber": "650",
+          "Description": "Management and auxiliary services"
+        },
+        {
+          "CallNumber": "651",
+          "Description": "Office services"
+        },
+        {
+          "CallNumber": "670",
+          "Description": "Manufacturing"
+        },
+        {
+          "CallNumber": "674",
+          "Description": "Lumber processing, wood products, cork"
+        },
+        {
+          "CallNumber": "690",
+          "Description": "Construction of buildings"
+        },
+        {
+          "CallNumber": "697",
+          "Description": "Heating, ventilating, air-conditioning"
+        }
+      ]
+    },
+    {
+      "CallNumber": "700",
+      "Description": "ART AND RECREATION",
+      "Subcategories": [
+        {
+          "CallNumber": "710",
+          "Description": "Civic & landscape art"
+        },
+        {
+          "CallNumber": "711",
+          "Description": "Area planning (Civic art)"
+        },
+        {
+          "CallNumber": "719",
+          "Description": "Natural landscapes"
+        },
+        {
+          "CallNumber": "720",
+          "Description": "Architecture"
+        },
+        {
+          "CallNumber": "721",
+          "Description": "Architectural structures"
+        },
+        {
+          "CallNumber": "725",
+          "Description": "Public structures"
+        },
+        {
+          "CallNumber": "730",
+          "Description": "Sculpture and related arts"
+        },
+        {
+          "CallNumber": "738",
+          "Description": "Ceramic arts"
+        },
+        {
+          "CallNumber": "740",
+          "Description": "Drawing & decorative arts"
+        },
+        {
+          "CallNumber": "743",
+          "Description": "Drawing and drawings by subject"
+        },
+        {
+          "CallNumber": "770",
+          "Description": "Photography & photographs"
+        },
+        {
+          "CallNumber": "772",
+          "Description": "Metallic salt processes"
+        },
+        {
+          "CallNumber": "790",
+          "Description": "Recreational and performing arts"
+        },
+        {
+          "CallNumber": "791",
+          "Description": "Public performances"
+        },
+        {
+          "CallNumber": "796",
+          "Description": "Athletic & outdoor sports & games"
+        },
+        {
+          "CallNumber": "799",
+          "Description": "Fishing, hunting, shooting"
+        }
+      ]
+    },
+    {
+      "CallNumber": "800",
+      "Description": "LITERATURE",
+      "Subcategories": [
+        {
+          "CallNumber": "810",
+          "Description": "American literature in English"
+        },
+        {
+          "CallNumber": "811",
+          "Description": "Poetry"
+        },
+        {
+          "CallNumber": "812",
+          "Description": "Drama"
+        },
+        {
+          "CallNumber": "813",
+          "Description": "Fiction"
+        },
+        {
+          "CallNumber": "814",
+          "Description": "Essays"
+        },
+        {
+          "CallNumber": "817",
+          "Description": "Satire & humour"
+        },
+        {
+          "CallNumber": "820",
+          "Description": "English & Old English literatures"
+        },
+        {
+          "CallNumber": "821",
+          "Description": "English poetry"
+        },
+        {
+          "CallNumber": "826",
+          "Description": "English letters"
+        },
+        {
+          "CallNumber": "828",
+          "Description": "English miscellaneous writings"
+        },
+        {
+          "CallNumber": "830",
+          "Description": "German literature and literatures of related languages"
+        },
+        {
+          "CallNumber": "833",
+          "Description": "German fiction"
+        },
+        {
+          "CallNumber": "840",
+          "Description": "French literature and literatures of related Romance languages"
+        },
+        {
+          "CallNumber": "844",
+          "Description": "French essays"
+        }
+      ]
+    },
+  {
+    "CallNumber": "900",
+    "Description": "HISTORY AND GEOGRAPHY",
+    "Subcategories": [
+      {
+        "CallNumber": "910",
+        "Description": "Geography & travel"
+      },
+      {
+        "CallNumber": "911",
+        "Description": "Historical geography"
+      },
+      {
+        "CallNumber": "913",
+        "Description": "Ancient world"
+      },
+      {
+        "CallNumber": "930",
+        "Description": "History of ancient world"
+      },
+      {
+        "CallNumber": "934",
+        "Description": "History of ancient world India"
+      },
+      {
+        "CallNumber": "960",
+        "Description": "History of Africa"
+      },
+      {
+        "CallNumber": "968",
+        "Description": "General history of Africa Southern Africa"
+      },
+      {
+        "CallNumber": "980",
+        "Description": "General history of South America"
+      },
+      {
+        "CallNumber": "986",
+        "Description": "Colombia and Ecuador"
+      },
+      {
+        "CallNumber": "990",
+        "Description": "History of Australasia, Pacific Ocean islands, Atlantic Ocean islands, Arctic islands, Antarctica, extraterrestrial worlds"
+      },
+      {
+        "CallNumber": "997",
+        "Description": "General history of other areas Atlantic Ocean islands"
+      },
+      {
+        "CallNumber": "999",
+        "Description": "Extra-terrestrial worlds"
+      }
+    ]
+  }
+    
+]

@@ -112,5 +112,11 @@ namespace LibraryShelves
             IdentifyingAreas IA = new IdentifyingAreas();
             IA.Show();
         }
+
+        private void findCallNumbersRadioButton_Checked(object sender, RoutedEventArgs e)
+        {
+            Part3 p3 = new Part3();
+            p3.Show();
+        }
     }
 }

@@ -1,0 +1,195 @@
+000 Generalities
+  010 Bibliography
+  020 Library & information sciences
+  030 General encyclopedic works
+    031 Encyclopedias in American English
+    032 Encyclopedias in English
+    033 Encyclopedias in Other Languages
+    034 Encyclopedias in German
+    035 Encyclopedias in French
+    036 Encyclopedias in Italian
+    037 Encyclopedias in Spanish
+    038 Encyclopedias in Slavic Languages
+    039 Encyclopedias in Other Non-Indo-European Languages
+  040 Unassigned (Formerly Biographies)
+  050 General serials and their indexes
+  060 General organization and museology
+  070 News media, journalism, publishing
+  080 General collections
+  090 Manuscripts and rare books
+100 Philosophy & psychology
+  110 Metaphysics
+  120 Epistemology
+  130 Paranormal phenomena
+    131 Parapsychology and occultism
+    132 Dreams
+    133 Specific topics in parapsychology and occultism
+    134 No longer used—formerly Mesmerism and Clairvoyance
+    135 Dreams and mysteries
+    136 No longer used—formerly Mental characteristics
+    137 Divinatory graphology
+    138 Physiognomy
+    139 No longer used—formerly Phrenology
+  140 Specific philosophical schools
+  150 Psychology
+    151 No longer used—formerly Mental physiology and hygiene
+    152 Perception, movement, emotions, drives
+    153 Conscious mental processes and intelligence
+    154 Subconscious and altered states and processes
+    155 Differential and developmental psychology
+    156 Comparative psychology
+    157 No longer used—formerly Emotions and instincts
+    158 Applied psychology
+    159 No longer used—formerly Will, volition, and choice
+200 Religion
+  210 Philosophy & theory of religion
+  220 Bible
+  230 Christianity
+    231 God
+    232 Jesus Christ & his family
+    233 Humankind
+    234 Salvation (Soteriology) and grace
+    235 Spiritual beings
+    236 Eschatology
+    237 No longer used—formerly Future state
+    238 No longer used—formerly Creeds, confessions of faith, covenants, and catechisms
+    239 Apologetics and polemics
+  240 Christian practice and observance
+  250 Christian pastoral practice and religious orders
+  260 Christian organization, social work, and worship
+  270 History of Christianity
+  280 Christian denominations and sects
+  290 Other religions
+300 Social sciences
+  310 Statistics
+  320 Political science
+  330 Economics
+    331 Labor economics
+    332 Financial economics
+    333 Land economics
+    334 Cooperatives
+    335 Socialism and related systems
+    336 Public finance
+    337 International economics
+    338 Production
+    339 Macroeconomics and related topics
+  340 Law
+  350 Public administration
+  360 Social services, association
+  370 Education
+  380 Commerce, communications, transportation
+  390 Customs, etiquette, folklore
+400 Language
+  410 Linguistics
+  420 English & Old English
+  430 German & related languages
+    431 German writing system & phonology
+    432 German etymology
+    433 German dictionaries
+    434 Not assigned or no longer used
+    435 German grammar
+    436 Not assigned or no longer used
+    437 German language variations
+    438 Standard German usage
+    439 Other Germanic languages
+  440 French & related languages
+  450 Italian, Romanian, & related languages
+  460 Spanish, Portuguese, Galician
+  470 Latin & Italic languages
+  480 Classical & modern Greek languages
+  490 Other languages
+500 Science
+  510 Mathematics
+  520 Astronomy
+  530 Physics
+    531 Classical mechanics
+    532 Fluid mechanics
+    533 Pneumatics (Gas dynamics)
+    534 Sound & related vibrations
+    535 Light & infrared and ultraviolet phenomena
+    536 Heat
+    537 Electricity & electronics
+    538 Magnetism
+    539 Modern physics
+  540 Chemistry
+  550 Earth sciences & geology
+  560 Fossils & prehistoric life
+  570 Life sciences; biology
+  580 Plants (Botany)
+  590 Animals (Zoology)
+600 Technology
+  610 Medicine & health
+  620 Engineering
+  630 Agriculture
+    631 Techniques, equipment, materials
+    632 Plant injuries, diseases, pests
+    633 Field & plantation crops
+    634 Orchards, fruits, forestry
+    635 Garden crops (Horticulture)
+    636 Animal husbandry
+    637 Dairy processing & products
+    638 Insect culture
+    639 Hunting, fishing, conservation
+  640 Home & family management
+  650 Management & public relations
+  660 Chemical engineering
+  670 Manufacturing
+  680 Manufacture for specific uses
+  690 Buildings
+700 Arts
+  710 Area planning & landscape architecture
+  720 Architecture
+  730 Sculpture, ceramics & metalwork
+    731 Processes, forms, subjects of sculpture
+    732 Sculpture to ca. 500
+    733 Greek, Etruscan, Roman sculpture
+    734 Sculpture from ca. 500 to 1399
+    735 Sculpture from 1400
+    736 Carving & carvings
+    737 Numismatics & sigillography
+    738 Ceramic arts
+    739 Art metalwork
+  740 Graphic arts; decorative arts
+  750 Painting
+  760 Printmaking & prints
+  770 Photography, computer art, film, video
+  780 Music
+  790 Recreational & performing arts
+800 Literature, rhetoric & criticism
+  810 American literature in English
+  820 English & Old English literature
+  830 German & related literatures
+    831 German poetry
+    832 German drama
+    833 German fiction
+    834 German essays
+    835 German speeches
+    836 German letters
+    837 German satire & humor
+    838 German miscellaneous writings
+    839 Other Germanic literatures
+  840 French & related literatures
+  850 Italian, Romanian, & related literatures
+  860 Spanish & Portuguese literatures
+  870 Latin & Italic literatures
+  880 Classical & modern Greek literatures
+  890 Other literatures
+900 History
+  910 Geography & travel
+  920 Biography, genealogy, insignia
+  930 History of the ancient world
+    931 China to 420
+    932 Egypt to 640
+    933 Palestine to 70
+    934 India to 647
+    935 Mesopotamia and Iranian Plateau to 637
+    936 Europe north and west of Italian Peninsula to ca. 499
+    937 Italian Peninsula to 476 and adjacent territories to 476
+    938 Greece to 323
+    939 Other parts of ancient world
+  940 History of Europe
+  950 History of Asia; Far East
+  960 History of Africa
+  970 History of North America
+  980 History of South America
+  990 History of other areas
